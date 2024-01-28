@@ -25,3 +25,11 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Deploying Firebase new version
+
+First need to run `npm run build`. Will create a production version of web app in the dist folder. Then we need to login to firebase using `firebase login`
+
+## UI Library - Angular Material
+
+https://material.angular.io/
